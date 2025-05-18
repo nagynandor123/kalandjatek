@@ -1,0 +1,26 @@
+body{
+    background-image: url(level.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.fo{
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: white;
+    background-image: url(start.png);       /* Ide jön a szöveghez tartozó szöveg */
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+footer{
+    background-color: white;
+}
+
+.feher{
+    margin: 10px 10px 10px 10px;
+
+    text-align: center;
+}
